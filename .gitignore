@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Datos (no subir datos grandes)
+data/raw/
+data/cleaned/
+data/analysis/
+outputs/
+
+# Outputs
+outputs/
+
+# Archivos temporales
+*.log
