@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tr ';' '\\\\n')",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(py --version)",
+      "Bash(/c/Users/windows/AppData/Local/Programs/Python/Python312/Scripts/jupyter.exe --version)",
+      "Bash(/c/Users/windows/AppData/Local/Programs/Python/Python312/python -m jupyter --version)",
+      "Bash(/c/Users/windows/AppData/Local/Programs/Python/Python312/python -:*)",
+      "Bash(/c/Users/windows/AppData/Local/Programs/Python/Python312/python -m pip install pyarrow --quiet)"
+    ]
+  }
+}
